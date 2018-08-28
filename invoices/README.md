@@ -9,7 +9,7 @@ Esse Script se trata de um teste da Sheetgo feito para AppScript.
 ## Informações 
 
 Esse Script tem a seguinte função: Gera faturas apartir de uma planilha e um template pré montado pela Sheetgo. 
-Repositorio oficial em https://github.com/Sheetgo/invoice-generator
+Repositório oficial em https://github.com/Sheetgo/invoice-generator
 
 
 ## Mais Informações 
