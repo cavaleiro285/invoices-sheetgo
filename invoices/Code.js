@@ -17,20 +17,20 @@
  * Project Settings
  * @type {JSON}
  */
-SETTINGS = {
+var SETTINGS = {
 
     // Spreadsheet ID (template filled with your data)
+    // Document Id
+    documentId: "<your_document_id>",
+  
     // The id is a unique set of characters that can be found in the spreadsheet url
     spreadsheetId: '<your_spreadsheet_id>',
 
-    // Spreadsheet name
-    sheetName: "Data",
-
-    // Document Id
-    documentId: "<your_document_id>",
-
     // Folder id
-    folderId: '<your_folder_id>'
+    folderId: '<your_folder_id>',
+  
+    // Spreadsheet name
+    sheetName: "Data"
 
 };
 
